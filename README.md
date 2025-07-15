@@ -13,7 +13,7 @@ npm start
 node server.js
 ```
 
-Open the `app/index.html` file in a browser. 
+Open the `app/index.html` file in a browser. WASD for controls.
 
 ## Current Issue
 When a new player join, the older player's position is not updated until he/she moves
